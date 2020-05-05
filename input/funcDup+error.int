@@ -1,0 +1,6 @@
+(
+(define f(a a) 1)
+
+(define main(input) (f 1 2))
+
+)

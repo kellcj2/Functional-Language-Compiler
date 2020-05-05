@@ -1,0 +1,4 @@
+(
+(define main(input)
+  (tup-len (tup 1 99 234 22))
+))

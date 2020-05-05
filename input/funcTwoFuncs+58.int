@@ -1,0 +1,9 @@
+(
+(define f(a) a)
+(define g(a) (* 2 a))
+
+(define main(input) 
+  (let ((a 42)(b -13)) 
+    (g (f (+ a b)))
+  )
+))

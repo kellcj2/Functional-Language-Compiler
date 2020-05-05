@@ -1,0 +1,4 @@
+(
+(define main(input)
+  (tup-get (tup 3 4 5) 3)
+))

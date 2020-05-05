@@ -1,0 +1,13 @@
+(
+
+(define rec(a) 
+  (if (== a 0) a
+   ( rec (- (print a) 1)) 
+  )
+)
+
+(define main(input) 
+  (let ((x 10))
+    (rec x)
+  )
+))

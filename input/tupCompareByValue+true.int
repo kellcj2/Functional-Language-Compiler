@@ -1,0 +1,3 @@
+((define main(input)
+  (= (tup 3 4 5) (tup 3 4 5))
+))

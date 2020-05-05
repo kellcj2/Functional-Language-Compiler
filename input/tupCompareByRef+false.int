@@ -1,0 +1,3 @@
+((define main(input)
+  (let ((t (tup 1 2)) (t2 (tup 1 2)))  (== t t2))
+))

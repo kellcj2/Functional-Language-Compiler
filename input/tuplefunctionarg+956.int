@@ -1,0 +1,12 @@
+(
+(define f(tupleVar)
+  (if (is-tup tupleVar)
+    (tup-get tupleVar 0)
+    false
+  )
+)
+(define main(input)
+  (let ((x (tup 956 234 99)))
+    (f x)
+  )
+))

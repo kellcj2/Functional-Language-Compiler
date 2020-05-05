@@ -1,0 +1,7 @@
+((define main(input)
+  (let ((a 5))
+    (while (> a 0)
+      (:= a (sub1 (print a)))
+    )
+  )
+))

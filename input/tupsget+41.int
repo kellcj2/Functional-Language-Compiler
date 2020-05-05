@@ -1,0 +1,6 @@
+(
+(define main(input)
+  (let ((t1 (tup 1 2 3)) (x 34) (t2 (tup 4 5 6)))
+    (+ (tup-get t1 0) (+ x (tup-get t2 2)))
+  )
+))

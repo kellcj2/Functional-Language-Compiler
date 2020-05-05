@@ -1,0 +1,3 @@
+((define main (input) 
+  (* input 3)
+))

@@ -1,0 +1,5 @@
+(
+(define f() 1)
+(define f(a b c) 33)
+(define main (input) 1)
+)

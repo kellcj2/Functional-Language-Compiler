@@ -1,0 +1,8 @@
+(
+
+(define g(n) (f n))
+(define f(n) (* 2 n))
+
+(define main(input) 
+  (g 99)
+))

@@ -1,0 +1,6 @@
+(
+(define main(input)
+  (let ((a (tup 3 4 5)))
+    (is-tup a)
+  )
+))

@@ -1,0 +1,3 @@
+((define main(input)
+  (tup 55 812 (tup -431 0))
+))

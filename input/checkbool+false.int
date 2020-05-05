@@ -1,0 +1,3 @@
+((define main (input) 
+  (is-bool 3456)
+))

@@ -1,0 +1,5 @@
+((define main(input)
+  (let ((a 3))
+    (:= b 392)
+  )
+))

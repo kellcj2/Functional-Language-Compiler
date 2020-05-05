@@ -1,0 +1,4 @@
+(
+(define main(input)
+  (is-tup (tup 3 4 5))
+))

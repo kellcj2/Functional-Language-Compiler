@@ -1,0 +1,9 @@
+((define main(input)
+  (let ((sum 0))
+    (begin
+      (while (> input 0)
+        (begin
+          (:=  sum (+ sum  input))
+          (:=  input (- input  1))))
+    sum))
+))

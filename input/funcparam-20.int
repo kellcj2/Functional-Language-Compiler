@@ -1,0 +1,8 @@
+((define f(a b c) (+ c (+ a b)))
+
+(define main(input) 
+  (let ((a 3)(x 19))
+    (f a x (- 0 42))
+  )
+
+))
