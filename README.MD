@@ -1,4 +1,6 @@
 # Functional-Language-Compiler
+x86_64 asm
+
 * Integers:&nbsp; 1 in the least significant bit
 * Booleans: 10 in the least two significant bits
 * Tuples:&nbsp;&nbsp;&nbsp;&nbsp; 00 in the least two significant bits
